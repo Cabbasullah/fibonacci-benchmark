@@ -26,6 +26,7 @@ c). To check the memory usage/space complexity for both recursive and iterative 
                 #make sure the file is running, preferably in infinite loop 
                 ![Iterative_memory usage](https://user-images.githubusercontent.com/85749516/205197467-efecea12-1dd2-41e0-a9bc-57a839a3f2df.png)
                 ![recursive_memory-usage](https://user-images.githubusercontent.com/85749516/205197472-ed2b26e1-ce86-4d91-a5c3-bdc6df195ea8.png)
+                >>Their memory usage is the same now because we used 45 to compare them, but if larger number is used, then we can see the difference in their memory usage. It is only that, it is gonna take time for the recursion to exacute time if you put larger numbers
 
                 Note: The recursive fibonacc-series is too slow compared to iterative. When testing, it is recommended to use numbers below 45 to compare.
                 Else you gonna have to wait alot for the recursive to be executed... in my testing I used number 45 refer to the screenshots in this folder to see the testing-results
