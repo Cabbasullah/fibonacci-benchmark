@@ -1,7 +1,7 @@
 
 # fibonacci-benchmark
 
-This folder contains all the files for fibonacci-recursive-iterative code implementation and benchmark interms of time and space complexity.
+This folder contains all the files for fibonacci-recursive-iterative code implementation and benchmark in terms of time and space complexity.
 How to run this code: Along the files in this folder is Makefile which will make the process of running the code much easier.
 
 a).To test the main_test.c: to show both approaches are equivalent 
