@@ -8,7 +8,8 @@ a).To test the main_test.c: to show both approaches are equivalent
                 in your terminal type: make test 
                 then exacute the code by typing: ./main_test.out
                 refer to the following screenshot:
-                (https://user-images.githubusercontent.com/85749516/205197037-c00a3a07-2e76-4166-9c7e-a048ad69d564.png)
+                ![main_test](https://user-images.githubusercontent.com/85749516/205197642-13197d74-f799-4944-901b-2b243a8a796a.png)
+
                 
 b). To check the time complexity for both recursive and iterative fibonacci series 
                 for iterative, in your terminal type: make iterativeb-t execute command: ./main_b_time_iterative.out 
