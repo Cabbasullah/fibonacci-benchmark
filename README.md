@@ -1,3 +1,4 @@
+
 # fibonacci-benchmark
 
 This folder contains all the files for fibonacci-recursive-iterative code implementation and benchmark interms of time and space complexity.
@@ -6,6 +7,7 @@ How to run this code: Along the files in this folder is Makefile which will make
 a).To test the main_test.c: to show both approaches are equivalent 
                 in your terminal type: make test 
                 then exacute the code by typing: ./main_test.out
+                (https://user-images.githubusercontent.com/85749516/205197037-c00a3a07-2e76-4166-9c7e-a048ad69d564.png)
                 
 b). To check the time complexity for both recursive and iterative fibonacci series 
                 for iterative, in your terminal type: make iterativeb-t execute command: ./main_b_time_iterative.out 
