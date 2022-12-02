@@ -30,4 +30,4 @@ c). To check the memory usage/space complexity for both recursive and iterative 
 
                 Note: The recursive fibonacc-series is too slow compared to iterative. When testing, it is recommended to use numbers below 45 to compare.
                 Else you gonna have to wait alot for the recursive to be executed... in my testing I used number 45 refer to the screenshots in this folder to see the testing-results
-
+As shown above, the iterative Fibonacci series run much faster than the recursive Fibonacci series, and this is because all the factions must be called, stored, and then returned to the calling faction. It is very simple when it comes to coding compared to iteration, and its simplicity is the trade-off for its speed. On the other hand, the iteration that mainly depends on looping is a complex system but much faster than the recursive. According to the results, recursion appears to use more memory, but only using larger numbers can you tell the difference in memory usage. 
